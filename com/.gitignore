@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# System configuration files (generated at runtime)
+system_config.dat
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build output
+out/
+build/
+target/
+bin/
